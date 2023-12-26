@@ -1,0 +1,171 @@
+﻿@inject IHttpContextAccessor contextAccessor
+@{
+    var roleId = contextAccessor.HttpContext.Session.GetInt32("UserRole");
+    var userName = contextAccessor.HttpContext.Session.GetString("UserName");
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] |CTMS</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/SMS.styles.css" asp-append-version="true" />
+
+    <link rel="stylesheet" href="~/css/jquery.dataTables.min.css" asp-append-version="true" />
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+    <script src="~/js/sweetalert.min.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap" rel="stylesheet">
+    <link href="~/css/robertofont.css;400&display=swap" rel="stylesheet" />
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link href="~/css/all.min.css" rel="stylesheet" />
+    <script src="~/lib/sweetalert2/sweetalert2.all.min.js"></script>
+    <link href="~/lib/sweetalert2/sweetalert2.min.css" rel="stylesheet" />
+    @*<link rel="stylesheet" href="~/css/chosen.css" asp-append-version="true" />*@
+    <link rel="stylesheet" href="~/css/chosen.min.css" asp-append-version="true" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
+    <link href="~/css/googleapis.css" rel="stylesheet" />
+    <style>
+        body {
+            background-color: rgb(224,224,224);
+        }
+    </style>
+
+
+
+</head>
+<body>
+    <header>
+        @if (userName != null)
+        {
+            <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3 fixed-top">
+
+
+                <div class="container-fluid">
+                    <h6 style="padding-top:10px">CTMS</h6>                   
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                            aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                        <ul class="navbar-nav flex-grow-1">
+
+
+                            @if (userName != null && roleId == 1 || roleId == 2)
+                            {
+
+                                @if (userName != null && roleId == 1)
+                                {
+                                }
+                                else
+                                {
+                                    <li>
+                                        <a class="nav-link text-dark" asp-area="" asp-controller="User" asp-action="ResolvedTasks">Register</a>
+                                    </li>
+
+                                    <li class="nav-item">
+                                    </li>
+                                }
+                                <li class="nav-item dropdown">
+                                    <a class="nav-link text-dark" asp-area="" asp-controller="user" asp-action="appdbchanges">Changes</a>
+                                </li>
+                                @if (userName != null && roleId == 1)
+                                {
+                                    <li class="nav-item dropdown">
+                                        <a class="nav-link dropdown-toggle text-dark" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">SetUp</a>
+                                        <ul class="dropdown-menu">
+                                            <li>
+                                                <a class="nav-link text-dark" asp-area="" asp-controller="ApplicationName" asp-action="ApplicationView">ApplicationName</a>
+                                            </li>
+                                            <li>
+                                                <a class="nav-link text-dark" asp-area="" asp-controller="Department" asp-action="DepartmentView">Department</a>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                }
+
+                            }
+                        </ul>
+                    </div>
+                </div>
+
+                <div style="margin-right:20px">
+                    <div class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-dark" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Profile</a>
+                        <div class="dropdown-menu">
+                            <div>
+
+
+                                @if (userName != null && roleId == 1)
+                                {
+                                    <a class="nav-link text-dark" asp-area="" asp-controller="Account" asp-action="UserView"><i class="fa-solid fa-user "></i> Add</a>
+                                }
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Account" asp-action="ChangePassword"> <i class="fa-sharp fa-solid fa-key"></i> Change</a>
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Account" asp-action="Logout"><i class="fa-sharp fa-solid fa-right-from-bracket"></i> Out</a>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <a class="nav-link text-dark" asp-area="" asp-controller="Account" asp-action="Login"></a>
+
+            </nav>
+        }
+        <br/>
+        <br/>
+
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+    @*  -----------------------------Dragable Modal-----------------*@
+    <div class="modal" tabindex="-1" role="dialog" id="form-modal">
+        <div class="modal-dialog draggable" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title"></h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="loaderbody" id="loaderbody">
+        <div class="loader"></div>
+    </div>
+    @* ----------------------------------------------------------------*@
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2023 - CTMS -
+        </div>
+    </footer>
+    <script src="d:\CTMS version\CTMS\wwwroot\js\chosen.jquery.min.js"></script>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="~/js/jquery.datatables.min.js" asp-append-version="true"></script>
+    @*<script src="~/js/chosen.jquery.js" asp-append-version="true"></script>*@
+    <script src="~/js/chosen.jquery.min.js" asp-append-version="true"></script>
+    <link href="~/css/chosen.min.css" rel="stylesheet" />
+    <link href="~/css/chosen.css" rel="stylesheet" />
+
+    <script>
+        $(document).ready(function () {
+            $('.table').DataTable();
+        });
+    </script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

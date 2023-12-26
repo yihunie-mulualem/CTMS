@@ -1,0 +1,113 @@
+﻿@model IEnumerable<CTMS.Models.RequestForm>
+
+@{
+    ViewData["Title"] = "Index";
+}
+<div class="shadow p-3 mb-5 bg-white rounded">
+    <div class="">
+
+
+
+        <div class=" shadow-none p-3 mb-5 bg-light rounded ">
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ApplicationName)
+            </th>
+@*            <th>
+                @Html.DisplayNameFor(model => model.DatabaseName)
+            </th>*@
+            @*            <th>
+            @Html.DisplayNameFor(model => model.RequestedBy)
+            </th>*@
+            <th>
+                @Html.DisplayNameFor(model => model.Department)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.ResonForChange)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            @*            <th>
+            @Html.DisplayNameFor(model => model.Remark)
+            </th>*@
+            <th>
+                @Html.DisplayNameFor(model => model.Status)
+            </th>
+                        <th>
+            @Html.DisplayNameFor(model => model.AssignedTo)
+            </th>
+            @*            <th>
+            @Html.DisplayNameFor(model => model.CreatedBy)
+            </th>*@
+            @*            <th>
+            @Html.DisplayNameFor(model => model.CreatedDate)
+            </th>*@
+            @*            <th>
+            @Html.DisplayNameFor(model => model.ModifiedBy)
+            </th>*@
+@*            <th>
+                @Html.DisplayNameFor(model => model.ModifiedDate)
+            </th>*@
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ApplicationName)
+                </td>
+@*                <td>
+                    @Html.DisplayFor(modelItem => item.DatabaseName)
+                </td>*@
+                @*            <td>
+            @Html.DisplayFor(modelItem => item.RequestedBy)
+            </td>*@
+                <td>
+                    @Html.DisplayFor(modelItem => item.Department)
+                    @*            </td>
+                *@
+                <td>
+                        @Html.DisplayFor(modelItem => item.ResonForChange)
+                </td>
+                <td>
+                        @Html.DisplayFor(modelItem => item.Description)
+                </td>
+                    @*            <td>
+            @Html.DisplayFor(modelItem => item.Remark)
+            </td>*@
+                <td>
+                        @Html.DisplayFor(modelItem => item.Status)
+                </td>
+                                <td>
+            @Html.DisplayFor(modelItem => item.AssignedTo)
+            </td>
+                    @*      <td>
+            @Html.DisplayFor(modelItem => item.CreatedBy)
+            </td>*@
+                    @*            <td>
+            @Html.DisplayFor(modelItem => item.CreatedDate)
+            </td>*@
+                    @*            <td>
+            @Html.DisplayFor(modelItem => item.ModifiedBy)
+            </td>*@
+@*                <td>
+                        @Html.DisplayFor(modelItem => item.ModifiedDate)
+                </td>*@
+                <td>
+                    @*<a onclick="showInPopUp('@Url.Action("AddOrEditRequest","RequestForms",new {id = item.Id},Context.Request.Scheme)','Update Request')" class="btn btn-primary btn-sm"><i class="fa fa-pencil-alt"></i> </a>*@
+                    <a onclick="showInPopUp('@Url.Action("RequestResponse","User",new {id = item.Id},Context.Request.Scheme)','Assign Request')" class="btn btn-info btn-sm d-inline"> <i class="fa fa-reply-all" aria-hidden="true"></i></a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+</div>
+</div>
+</div>

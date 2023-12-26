@@ -1,0 +1,44 @@
+﻿@model CTMS.Models.Department
+
+@{
+    ViewData["Title"] = "DepartmentEdit";
+    Layout = null;
+}
+<div class="row">
+    <form asp-action="DepartmentUpdate">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <input type="hidden" asp-for="Id" />
+        <div class="row">
+            <div class="col-md-12">
+                <div class="form-group">
+                    <label asp-for="Name" class="control-label"></label>
+                    <input asp-for="Name" class="form-control" required />
+                    <span asp-validation-for="Name" class="text-danger"></span>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="form-group">
+                    <label asp-for="Description" class="control-label"></label><br/>
+                    <textarea asp-for="Description" rows="4" cols="47" required></textarea>
+                    <span asp-validation-for="Description" class="text-danger"></span>
+                </div>
+            </div>
+        </div>
+        <hr />
+        <div class="row">
+            <div class="col-md-12">
+                <div class="form-group">
+                    <input type="submit" value="Update" class="btn btn-primary form-control" />
+                </div>
+            </div>
+        </div>
+    </form>
+</div>
+<br />
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

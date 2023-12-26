@@ -1,0 +1,119 @@
+﻿@model CTMS.Models.RequestForm
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = null;
+}
+ <style type="text/css">
+/*    .multiSelectDD {
+    padding:10px;
+    }*/
+        </style>
+
+
+<div class="row"> 
+    <div class="col-md-12">
+        <form asp-action="AddOrEditRequest" asp-route-id="@Model.Id" onsubmit="JQueryAjaxPost(this);" outocomplet="off">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+
+
+
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="form-group">
+                        <label asp-for="ApplicationName" class="control-label"></label>
+                        <div class="input-group">
+@*                            <div class="input-group-prepend">
+                                <div class="input-group-text">#</div>
+                            </div>*@
+                            @Html.DropDownList("ApplicationName", (SelectList)ViewBag.appNameList, "--select--", new { @class = "form-control" })
+
+                        </div>
+                        <span asp-validation-for="ApplicationName" class="text-danger"></span>
+                    </div>
+
+                </div>
+
+@*                <div class="col-md-6">
+                    <div class="form-group">
+                        <label asp-for="DatabaseName" class="control-label"></label>
+                        <span asp-validation-for="DatabaseName" class="text-danger"></span>
+                        @Html.DropDownList("DatabaseName", (SelectList)ViewBag.dbNameList, "--select--", new { @class = "form-control" })
+
+                    </div>
+                </div>*@
+            </div>
+            <div class="form-group">
+                <label asp-for="ApplicationVersion" class="control-label"></label>
+                <input asp-for="ApplicationVersion" class="form-control" required />
+                <span asp-validation-for="ApplicationVersion" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Department" class="control-label"></label>
+                <span asp-validation-for="Department" class="text-danger"></span>
+                @*@Html.DropDownListFor(model => model.Department,new SelectList(Model.DepartmentCollection,"Name","Name"),new {@class= "chosen-select form-control",@id="dropdownlist"})*@
+                @Html.ListBoxFor(model => model.SelectedDepartment, new MultiSelectList(Model.DepartmentCollection,"Name","Name"),new {id="multiSelectDD", @class="form-control",multiple="true"})
+           </div>
+            <div class="form-group">
+                <label asp-for="ResonForChange" class="control-label"></label>
+
+                <div class="input-group">
+@*                    <div class="input-group-prepend">
+                        <div class="input-group-text">?
+                            <i class="fa-solid fa-code-pull-request"></i>
+                            </div>
+                    </div>*@
+                    <input asp-for="ResonForChange" class="form-control"  required />
+                </div>
+                <span asp-validation-for="ResonForChange" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Description" class="control-label"></label>
+                <textarea asp-for="Description" rows="4" cols="60" class="form-control" required ></textarea>
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+
+@*            <div class="form-group">
+                <label asp-for="RequestedBy" class="control-label"></label>
+                <input asp-for="RequestedBy" class="form-control" />
+                <span asp-validation-for="RequestedBy" class="text-danger"></span>
+            </div>*@
+
+
+@*            <div class="form-group">
+                <label asp-for="Remark" class="control-label"></label>
+                <input asp-for="Remark" class="form-control" />
+                <span asp-validation-for="Remark" class="text-danger"></span>
+            </div>*@
+            <div class="form-group">
+                <input hidden asp-for="Status" placeholder="Status" class="form-control"  required />
+                <span asp-validation-for="Status" class="text-danger"></span>
+            </div>
+               @*Hiddden Files*@
+            <input type="hidden" asp-for="CreatedBy" />
+            <input type="hidden" asp-for="CreatedDate" />
+            <input type="hidden" asp-for="ModifiedBy" />
+            <input type="hidden" asp-for="ModifiedDate" />
+            <input type="hidden" asp-for="AssignedTo" />
+            <hr/>
+            <div class="form-group">
+                <input type="submit" value="Submit" class="btn btn-primary form-control" />
+            </div>
+        </form>
+    </div>
+</div>
+     
+
+
+    <script>
+        $(function () {
+            $("#multiSelectDD").chosen();
+        });
+    </script>
+   
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

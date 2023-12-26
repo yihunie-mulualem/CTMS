@@ -1,0 +1,90 @@
+﻿@model CTMS.Models.RequestForm
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = null;
+}
+<hr />
+<div class="row">
+    <div class="col-md-12">
+        <form asp-action="AssignRequest" asp-route-id="@Model.Id" onsubmit="JQueryAjaxPost(this);" outocomplet="off">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label asp-for="ApplicationName" class="control-label"></label>
+                        <div class="input-group">
+                            <div class="input-group-prepend">
+                                <div class="input-group-text">#</div>
+                            </div>
+                            <input asp-for="ApplicationName" class="form-control" readonly />
+                        </div>
+                        <span asp-validation-for="ApplicationName" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label asp-for="DatabaseName" class="control-label"></label>
+                        <span asp-validation-for="DatabaseName" class="text-danger"></span>
+                        <input asp-for="DatabaseName" class="form-control" readonly />
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Department" class="control-label"></label>
+                <span asp-validation-for="Department" class="text-danger"></span>
+                <input asp-for="Department" class="form-control" readonly />
+            </div>
+
+            <div class="form-group">
+                <label asp-for="ResonForChange" class="control-label"></label>
+                <div class="input-group">
+                    <div class="input-group-prepend">
+                        <div class="input-group-text">
+                            ?
+                            @* <i class="fa-solid fa-code-pull-request"></i>*@
+                        </div>
+                    </div>
+                    <input asp-for="ResonForChange" class="form-control" readonly />
+                </div>
+                <span asp-validation-for="ResonForChange" class="text-danger"></span>
+            </div>
+
+
+            <div class="form-group">
+                <label asp-for="Description" class="control-label"></label>
+                <span asp-validation-for="Description" class="text-danger"></span>
+                <input asp-for="Description" class="form-control" readonly />
+            </div>
+
+
+            @*Hidden File*@
+            <input type="hidden" asp-for="RequestedBy" class="form-control" />
+            <input type="hidden" asp-for="Remark" class="form-control" />
+            <input type="hidden" asp-for="CreatedBy" class="form-control" />
+            <input type="hidden" asp-for="CreatedDate" class="form-control" />
+            <inpu type="hidden" t asp-for="ModifiedBy" class="form-control" />
+            <input type="hidden" asp-for="ModifiedDate" class="form-control" />
+            <div class="form-group">
+                <label asp-for="AssignedTo" class="control-label"></label>
+                <span asp-validation-for="AssignedTo" class="text-danger"></span>
+                @Html.DropDownList("AssignedTo", (SelectList)ViewBag.userList, "--select--", new { @class = "form-control" })
+            </div>
+            <hr />
+            <div class="form-group">
+                <input type="submit" value="Submit" class="btn btn-primary btn-block" />
+            </div>
+        </form>
+    </div>
+</div>
+
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+        }

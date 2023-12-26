@@ -1,0 +1,69 @@
+﻿@model IEnumerable<CTMS.ViewModels.DatabaseViewModel>
+
+@{
+    ViewData["Title"] = "DatabaseChanges";
+}
+
+<div class="shadow p-3 mb-5 bg-white rounded">
+    <div class="">
+
+
+
+        <div class=" shadow-none p-3 mb-5 bg-light rounded ">
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.DatabaseName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TableName)
+            </th>
+@*            <th>
+                @Html.DisplayNameFor(model => model.FieldName)
+            </th>*@
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AssignedTo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ModifiedBy)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ModifiedDate)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.DatabaseName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TableName)
+            </td>
+@*            <td>
+                @Html.DisplayFor(modelItem => item.FieldName)
+            </td>*@
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AssignedTo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ModifiedBy)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ModifiedDate)
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+</div>
+</div>
+</div>

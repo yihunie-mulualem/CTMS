@@ -1,0 +1,91 @@
+﻿@model CTMS.Models.User
+
+@{
+    ViewData["Title"] = "AddUser";
+    Layout = null;
+}
+@using CTMS.DatabaseContext;
+@using Microsoft.EntityFrameworkCore;
+@inject CTMSDbContext _context;
+@{
+    ViewBag.role = _context;
+}
+<form asp-action="UserRegister">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <div class="row">
+        <div class="col-md-12">
+            <div class="form-group">
+                <label asp-for="FullName" class="control-label"></label>
+                <input asp-for="FullName" class="form-control" required />
+                <span asp-validation-for="FullName" class="text-danger"></span>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            <div class="form-group">
+                <label asp-for="UserName" class="control-label"></label>
+                <input asp-for="UserName" class="form-control" required />
+                <span asp-validation-for="UserName" class="text-danger"></span>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+    <div class="form-group">
+        <label asp-for="Email" class="control-label"></label>
+        <input asp-for="Email" class="form-control" required />
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+    </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+    <div class="form-group">
+        <label asp-for="Password" class="control-label"></label>
+        <input asp-for="Password" class="form-control" required />
+        <span asp-validation-for="Password" class="text-danger"></span>
+    </div>
+    </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+    <div class="form-group">
+        <label asp-for="RoleId" class="control-label"></label>
+        @{
+            List<CTMS.Models.Role> Rolelist = _context.Roles.ToList();
+        }
+        <select asp-for="RoleId" class="form-control" value=RoleId class="form-control">
+            @{
+                foreach (CTMS.Models.Role s in Rolelist)
+                {
+                    <option asp-for="RoleId" value="@s.Id">@s.Name</option>
+                }
+            }
+
+        </select>
+    </div>
+    </div>
+    </div>
+
+ <hr/>
+    <div class="row">
+        <div class="col-md-6">
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-success form-control" />
+            </div>
+        </div>
+
+        <div class="col-md-6">
+            <div class="form-group">
+                <input type="Reset" value="Clear" class="btn btn-info form-control" />
+            </div>
+        </div>
+    </div>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

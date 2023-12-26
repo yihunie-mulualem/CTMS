@@ -1,0 +1,187 @@
+﻿
+@model IEnumerable<CTMS.Models.App_Db_ViewModel>
+
+@inject IHttpContextAccessor contextAccessor
+@{
+    var roleId = contextAccessor.HttpContext.Session.GetInt32("UserRole");
+    var userName = contextAccessor.HttpContext.Session.GetString("UserName");
+}
+<script>
+    $('input[name="isSign"][type="hidden"').remove();
+</script>
+@{
+    ViewData["Title"] = "Index";
+
+    if (TempData["msg"] != null)
+    {
+        if (TempData["msg"].ToString() == "rpt")
+        {
+            if (TempData["app"] != null)
+            {
+                string data = TempData["app"].ToString();
+                <script>
+                    window.open('http://10.0.66.10/report.ctms/default.aspx?data=@data', "_newtab");
+                </script>
+            }
+            else
+            {
+                <script>
+                    window.open('http://10.0.66.10/report.ctms/default.aspx', "_newtab");
+
+                </script>
+            }
+
+
+        }
+        else if (TempData["msg"].ToString() == "sign_rpt")
+        {
+            if (TempData["signId"] != null)
+            {
+                int signId = Convert.ToInt32(TempData["signId"]);
+                <script>
+                    window.open('http://10.0.66.10/report.ctms/default.aspx?signId=@signId', "_newtab");
+                </script>
+            }
+            else
+            {
+                <script>
+                    window.open('http://10.0.66.10/report.ctms/default.aspx', "_newtab");
+
+                </script>
+            }
+            
+        }
+        else
+        {
+            <script>swal("Berhan Bank", '@TempData["msg"]', "success")</script>
+        }
+    }
+    TempData["msg"] = null;
+}
+
+<div class="shadow p-3 mb-5 bg-white rounded">
+    <div class="">
+        <div class=" shadow-none p-3 mb-5 bg-light rounded ">
+            @if(roleId == 1){
+
+            <form asp-action="AppDbChanges" asp-controller="User">
+                <div class="container">
+                    <div class="row">
+                            <div class="col-md-2">
+                                <label class="control-label"><b>Select Application</b></label>
+                            </div>
+                        <div class="col-md-3">
+                            @Html.DropDownList("appName", (SelectList)ViewBag.appNameList, "--select--", new { @class = "form-control",onchange = "searchByAppName()" })
+                        </div>
+                        <div class="col-md-6">
+                           @*@<input type="submit" class="btn btn-primary" />@*@
+                        </div>
+                        <div class="col-md-1">
+                            <input type="submit"  value="Export" asp-action="GenerateEntireReport" asp-controller="User"  class="btn btn-outline-info"/>
+                        </div>
+                    </div>
+
+                </div>
+
+                </form>
+                <hr/>
+                }
+            <table class="table" id="data-table">
+                <thead>
+                    <tr>
+                        <th>
+                            App_Name
+                        </th>
+                        <th>
+                            App_Version
+                        </th>
+@*                        <th>
+                            @Html.DisplayNameFor(model => model.PageName)
+                        </th>*@
+                        <th>
+                            Change Description
+                        </th>
+@*                        <th>
+                            @Html.DisplayNameFor(model => model.TableName)
+                        </th>*@
+@*                        <th>
+                            @Html.DisplayNameFor(model => model.
+                            )
+                        </th>*@
+@*                        <th>
+                            @Html.DisplayNameFor(model => model.DbDescription)
+                        </th>*@
+                        <th>
+                            @Html.DisplayNameFor(model => model.ModifiedBy)
+                        </th>
+                        <th>
+                            Modified Date
+                        </th>
+                        <th>
+                            Sign Off
+                        </th>
+                        <th>
+                          IsSign
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+
+                            <td>
+                                @Html.DisplayFor(modelItem => item.ApplicationName)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.ApplicationVersion)
+                            </td>
+@*                            <td>
+                                @Html.DisplayFor(modelItem => item.PageName)
+                            </td>*@
+                            <td>
+@*                                @Html.DisplayFor(modelItem => item.AppDescription), 
+                                 @Html.DisplayFor(modelItem => item.DbDescription)*@
+                                 @Html.DisplayFor(modelItem => item.Description)
+                            </td>
+
+ @*                           <td>
+                                @Html.DisplayFor(modelItem => item.TableName)
+                            </td>*@
+@*                            <td>
+                                @Html.DisplayFor(modelItem => item.FieldName)
+                            </td>*@
+@*                            <td>
+                                @Html.DisplayFor(modelItem => item.DbDescription)
+                            </td>*@
+                            <td>
+                                @Html.DisplayFor(modelItem => item.ModifiedBy)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.ModifiedDate)
+                            </td>
+                         
+                            <td>
+                                <a class="btn btn-outline-primary" href="GeneratReportById/@item.RequestId">Sign Off</a>
+@*                                @ <a onclick="showInPopUp('@Url.Action("GeneratReportById","User",new {id = item.RequestId},Context.Request.Scheme)','Request Response Detail')" class="btn btn-outline-info"><i class="fa-sharp fa-solid fa-print"></i> </a> @
+*@                            </td>
+
+                      
+
+                            @if (item.SignApprove == 1 )
+                                {
+                                <td> <label>yes</label><input type="checkbox" value="true" checked="checked" disabled /></td>
+                                }
+                            else 
+                                {
+                                <td>
+                                    <label>NO</label><a class="btn btn-outline-primary" href="SignIndicator/@item.RequestId">Assure</a>
+                                </td>
+                                }
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,73 @@
+﻿@model IEnumerable<CTMS.Models.RequestForm>
+
+@{
+    ViewData["Title"] = "AssignedTasks";
+}
+
+<div class="shadow p-3 mb-5 bg-white rounded">
+    <div class="">
+
+
+
+        <div class=" shadow-none p-3 mb-5 bg-light rounded ">
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ApplicationName)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.Department)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ResonForChange)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.Status)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AssignedTo)
+            </th>
+             <th>
+            @Html.DisplayNameFor(model => model.CreatedDate)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ApplicationName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Department)
+            </td>
+ 
+            <td>
+                @Html.DisplayFor(modelItem => item.ResonForChange)
+            </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Description)
+                </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Status)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AssignedTo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CreatedDate)
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+</div>
+</div>
+</div>

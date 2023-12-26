@@ -1,0 +1,66 @@
+﻿@model CTMS.Models.ApplicationName
+
+@{
+    ViewData["Title"] = "ApplicationRegister";
+    Layout = null;
+}
+@if (TempData["AlertMessage"] != null)
+{
+    <div class="alert alert-success">
+        <strong>Success !</strong>@TempData["AlertMessage"]
+
+    </div>
+}
+
+<form asp-action="ApplicationName">
+
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <div class="row">
+        <div class="col-md-12">
+            <div class="form-group" id="name">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" required />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            <div class="form-group" id="Database">
+                <label asp-for="DatabaseName" class="control-label"></label>
+                <input asp-for="DatabaseName" class="form-control" required />
+                <span asp-validation-for="DatabaseName" class="text-danger"></span>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+
+            <div class="form-group" id="Description">
+                <label asp-for="Description" class="control-label"></label><br />
+                <textarea asp-for="Description" rows="5" cols="47" required></textarea>
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+        </div>
+    </div>
+    <br />
+    <div class="row">
+        <div class="col-md-6">
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-success form-control" />
+            </div>
+        </div>
+
+        <div class="col-md-6">
+            <div class="form-group">
+                <input type="Reset" value="Clear" class="btn btn-info form-control" />
+            </div>
+        </div>
+    </div>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

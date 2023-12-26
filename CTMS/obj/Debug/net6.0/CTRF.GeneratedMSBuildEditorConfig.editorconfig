@@ -1,0 +1,157 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CTRF
+build_property.RootNamespace = CTRF
+build_property.ProjectDir = D:\CTRF Version\CTRF\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\CTRF Version\CTRF
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/CTRF Version/CTRF/Views/Account/AddUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxBZGRVc2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CTRF Version/CTRF/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CTRF Version/CTRF/Views/Account/UpdateUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxVcGRhdGVVc2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CTRF Version/CTRF/Views/Account/UserView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxVc2VyVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CTRF Version/CTRF/Views/ApplicationName/ApplicationEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwbGljYXRpb25OYW1lXEFwcGxpY2F0aW9uRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CTRF Version/CTRF/Views/ApplicationName/ApplicationRegister.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwbGljYXRpb25OYW1lXEFwcGxpY2F0aW9uUmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CTRF Version/CTRF/Views/ApplicationName/ApplicationView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwbGljYXRpb25OYW1lXEFwcGxpY2F0aW9uVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CTRF Version/CTRF/Views/ChangeType/ChangeType.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhbmdlVHlwZVxDaGFuZ2VUeXBlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CTRF Version/CTRF/Views/ChangeType/ChangeTypeEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhbmdlVHlwZVxDaGFuZ2VUeXBlRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CTRF Version/CTRF/Views/ChangeType/ChangeView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhbmdlVHlwZVxDaGFuZ2VWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CTRF Version/CTRF/Views/Department/DepartmentCreation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxEZXBhcnRtZW50Q3JlYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CTRF Version/CTRF/Views/Department/DepartmentEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxEZXBhcnRtZW50RWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CTRF Version/CTRF/Views/Department/DepartmentView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxEZXBhcnRtZW50Vmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CTRF Version/CTRF/Views/FileUpload/FileUploadView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsZVVwbG9hZFxGaWxlVXBsb2FkVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CTRF Version/CTRF/Views/Main/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpblxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CTRF Version/CTRF/Views/RequestForms/AddOrEditRequest.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVxdWVzdEZvcm1zXEFkZE9yRWRpdFJlcXVlc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CTRF Version/CTRF/Views/RequestForms/AssignedTasks.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVxdWVzdEZvcm1zXEFzc2lnbmVkVGFza3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CTRF Version/CTRF/Views/RequestForms/AssignRequest.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVxdWVzdEZvcm1zXEFzc2lnblJlcXVlc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CTRF Version/CTRF/Views/RequestForms/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVxdWVzdEZvcm1zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CTRF Version/CTRF/Views/RequestForms/ResolvedTasks.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVxdWVzdEZvcm1zXFJlc29sdmVkVGFza3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CTRF Version/CTRF/Views/RequestForms/_viewAllRequest.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVxdWVzdEZvcm1zXF92aWV3QWxsUmVxdWVzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CTRF Version/CTRF/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CTRF Version/CTRF/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CTRF Version/CTRF/Views/User/AppDbChanges.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxBcHBEYkNoYW5nZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CTRF Version/CTRF/Views/User/ApplicationChanges.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxBcHBsaWNhdGlvbkNoYW5nZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CTRF Version/CTRF/Views/User/AssignedToTeam.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxBc3NpZ25lZFRvVGVhbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CTRF Version/CTRF/Views/User/DatabaseChanges.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxEYXRhYmFzZUNoYW5nZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CTRF Version/CTRF/Views/User/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CTRF Version/CTRF/Views/User/oldIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxvbGRJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CTRF Version/CTRF/Views/User/RequestResponse.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxSZXF1ZXN0UmVzcG9uc2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CTRF Version/CTRF/Views/User/ResolvedTasks.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxSZXNvbHZlZFRhc2tzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CTRF Version/CTRF/Views/User/ResponseDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxSZXNwb25zZURldGFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CTRF Version/CTRF/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CTRF Version/CTRF/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CTRF Version/CTRF/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-d9sylc3qrj

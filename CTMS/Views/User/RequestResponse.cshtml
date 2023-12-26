@@ -1,0 +1,117 @@
+﻿@model CTMS.Models.App_Db_ViewModel
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = null;
+}
+
+<div class="row">
+    <div class="col-md-12">
+        <form name="myForm" enctype="multipart/form-data" asp-action="RequestResponse" asp-route-id="@Model.RequestId" onsubmit="JQueryAjaxPost(this);" outocomplet="off">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="RequestId" />
+@*            <input type="checkbox" id="appCheckbox" name="appCheckbox" value="yes" onclick="showHideInfo()"/>
+            <label>Include Appliction Change</label>
+
+            <fieldset id="appFieldSet">*@
+            <div class="form-group">
+                    <label asp-for="ApplicationName" class="control-label"></label>
+                    <input asp-for="ApplicationName" class="form-control" readonly />
+                    <span asp-validation-for="ApplicationName" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="PageName" class="control-label"></label>
+                <input asp-for="PageName" class="form-control" />
+                <span asp-validation-for="PageName" class="text-danger"></span>
+            </div> 
+            <div class="form-group">
+                    <label class="control-label">Application Change Description</label>
+                    <textarea asp-for="AppDescription" rows="2" cols="60" class="form-control"></textarea>
+                    <span asp-validation-for="AppDescription" class="text-danger"></span>
+            </div>
+                <div class="col-md-6 form-group" style="width:450px">
+                    <label asp-for="SourceCodeFile"></label>
+                    <input type="file" asp-for="SourceCodeFile" class="form-control" />
+                    <span asp-validation-for="SourceCodeFile" class="text-danger"></span>
+                </div>
+            <div class="form-group">
+                <label asp-for="ApplicationVersion" class="control-label"></label>
+                <input asp-for="ApplicationVersion" class="form-control" />
+                <span asp-validation-for="ApplicationVersion" class="text-danger"></span>
+            </div>
+                    @*</fieldset>*@
+            <hr/>
+            <hr/>
+           <input type="checkbox" id="dbCheckbox" name="dbCheckbox" value="yes" onclick="showHideInfo()"/>
+            <label>Include Database Change</label>
+
+            <fieldset id="dbFieldSet">
+            <div class="form-group">
+                <label asp-for="DatabaseName" class="control-label"></label>
+                <input asp-for="DatabaseName" class="form-control" readonly/>
+                <span asp-validation-for="DatabaseName" class="text-danger"></span>
+            </div>
+      
+            <div class="form-group">
+                <label asp-for="TableName" class="control-label"></label>
+                <input asp-for="TableName" class="form-control" />
+                <span asp-validation-for="TableName" class="text-danger"></span>
+            </div>
+
+@*            <div class="form-group">
+                <label asp-for="FieldName" class="control-label"></label>
+                <input asp-for="FieldName" class="form-control" />
+                <span asp-validation-for="FieldName" class="text-danger"></span>
+            </div>*@
+
+
+            <div class="form-group">
+                    <label asp-for="DbDescription" class="control-label"></label>
+                    <textarea asp-for="DbDescription" rows="2" cols="60" class="form-control"></textarea>
+                    <span asp-validation-for="DbDescription" class="text-danger"></span>
+                </div>
+                <div class="col-md-6 form-group mb-3 " style="width:450px">
+                    <label asp-for="DatabaseSchemaFile"></label>
+                    <input type="file" asp-for="DatabaseSchemaFile" class="form-control" />
+                    <span asp-validation-for="DatabaseSchemaFile" class="text-danger"></span>
+                </div>
+            </fieldset>
+            <hr />
+            <div class="form-group">
+                <input type="submit" value="Submit" class="btn btn-primary btn-block" />
+            </div>
+        </form>
+    </div>
+</div>
+<script>
+    document.getElementById('dbFieldSet').style.display = 'none';
+    document.getElementById('appFieldSet').style.display = 'none';
+    function showHideInfo(){
+        
+        if (document.getElementById('dbCheckbox').checked){
+            document.getElementById('dbFieldSet').style.display='block';
+        }else{
+            document.getElementById('dbFieldSet').style.display = 'none';
+        }
+
+        if (document.getElementById('appCheckbox').checked) {
+            document.getElementById('appFieldSet').style.display = 'block';
+
+            //let x = document.forms["myForm"]["appName"].value;
+            //if (x == "") {
+            //    window.alert("Name must be filled out");
+            //    return false;
+            //}
+        } else {
+            document.getElementById('appFieldSet').style.display = 'none';
+        }
+    }
+
+</script>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

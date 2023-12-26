@@ -1,0 +1,990 @@
+D:\CTRF Version\CTRF\obj\Debug\net6.0\CTMS.csproj.AssemblyReference.cache
+D:\CTRF Version\CTRF\obj\Debug\net6.0\CTMS.GeneratedMSBuildEditorConfig.editorconfig
+D:\CTRF Version\CTRF\obj\Debug\net6.0\CTMS.AssemblyInfoInputs.cache
+D:\CTRF Version\CTRF\obj\Debug\net6.0\CTMS.AssemblyInfo.cs
+D:\CTRF Version\CTRF\obj\Debug\net6.0\CTMS.csproj.CoreCompileInputs.cache
+D:\CTRF Version\CTRF\obj\Debug\net6.0\CTMS.MvcApplicationPartsAssemblyInfo.cs
+D:\CTRF Version\CTRF\obj\Debug\net6.0\CTMS.MvcApplicationPartsAssemblyInfo.cache
+D:\CTRF Version\CTRF\obj\Debug\net6.0\CTMS.RazorAssemblyInfo.cache
+D:\CTRF Version\CTRF\obj\Debug\net6.0\CTMS.RazorAssemblyInfo.cs
+D:\CTRF Version\CTRF\bin\Debug\net6.0\appsettings.Development.json
+D:\CTRF Version\CTRF\bin\Debug\net6.0\appsettings.json
+D:\CTRF Version\CTRF\bin\Debug\net6.0\CTMS.staticwebassets.runtime.json
+D:\CTRF Version\CTRF\bin\Debug\net6.0\CTMS.exe
+D:\CTRF Version\CTRF\bin\Debug\net6.0\CTMS.deps.json
+D:\CTRF Version\CTRF\bin\Debug\net6.0\CTMS.runtimeconfig.json
+D:\CTRF Version\CTRF\bin\Debug\net6.0\CTMS.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\CTMS.pdb
+D:\CTRF Version\CTRF\bin\Debug\net6.0\Azure.Core.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\Azure.Identity.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\BitMiracle.LibTiff.NET.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\Google.Protobuf.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\Grpc.Core.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\Grpc.Core.Api.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\Humanizer.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\IronPdf.Extensions.Mvc.Core.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\IronPdf.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\IronSoftware.Abstractions.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\IronSoftware.Logger.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\IronSoftware.Drawing.Common.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\MessagePack.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\Microsoft.Build.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\NuGet.Common.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\SixLabors.Fonts.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\SixLabors.ImageSharp.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\SixLabors.ImageSharp.Drawing.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\System.CodeDom.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\System.Memory.Data.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\System.Text.Json.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\Chrome.Native.deployment.json
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\IronCefSubprocess.exe
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\IronInterop.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\chrome_100_percent.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\chrome_200_percent.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\chrome_elf.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\concrt140.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\d3dcompiler_47.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\dxva2.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\icudtl.dat
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\libEGL.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\libGLESv2.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\libcef.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\locales\af.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\locales\am.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\locales\ar.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\locales\bg.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\locales\bn.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\locales\ca.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\locales\cs.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\locales\da.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\locales\de.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\locales\el.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\locales\en-GB.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\locales\en-US.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\locales\es-419.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\locales\es.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\locales\et.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\locales\fa.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\locales\fi.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\locales\fil.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\locales\fr.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\locales\gu.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\locales\he.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\locales\hi.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\locales\hr.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\locales\hu.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\locales\id.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\locales\it.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\locales\ja.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\locales\kn.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\locales\ko.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\locales\lt.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\locales\lv.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\locales\ml.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\locales\mr.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\locales\ms.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\locales\nb.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\locales\nl.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\locales\pl.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\locales\pt-BR.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\locales\pt-PT.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\locales\ro.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\locales\ru.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\locales\sk.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\locales\sl.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\locales\sr.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\locales\sv.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\locales\sw.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\locales\ta.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\locales\te.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\locales\th.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\locales\tr.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\locales\uk.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\locales\ur.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\locales\vi.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\locales\zh-CN.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\locales\zh-TW.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\msvcp140.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\msvcp140_1.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\msvcp140_2.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\msvcp140_atomic_wait.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\msvcp140_codecvt_ids.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\resources.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\snapshot_blob.bin
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\ucrtbase.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\v8_context_snapshot.bin
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\vcruntime140.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\vcruntime140_1.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\vk_swiftshader.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\vulkan-1.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\Chrome.Native.deployment.json
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\IronCefSubprocess.exe
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\IronInterop.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\chrome_100_percent.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\chrome_200_percent.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\chrome_elf.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\concrt140.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\d3dcompiler_47.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\dxva2.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\icudtl.dat
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\libEGL.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\libGLESv2.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\libcef.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\locales\af.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\locales\am.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\locales\ar.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\locales\bg.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\locales\bn.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\locales\ca.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\locales\cs.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\locales\da.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\locales\de.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\locales\el.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\locales\en-GB.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\locales\en-US.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\locales\es-419.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\locales\es.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\locales\et.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\locales\fa.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\locales\fi.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\locales\fil.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\locales\fr.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\locales\gu.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\locales\he.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\locales\hi.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\locales\hr.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\locales\hu.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\locales\id.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\locales\it.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\locales\ja.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\locales\kn.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\locales\ko.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\locales\lt.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\locales\lv.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\locales\ml.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\locales\mr.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\locales\ms.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\locales\nb.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\locales\nl.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\locales\pl.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\locales\pt-BR.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\locales\pt-PT.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\locales\ro.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\locales\ru.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\locales\sk.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\locales\sl.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\locales\sr.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\locales\sv.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\locales\sw.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\locales\ta.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\locales\te.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\locales\th.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\locales\tr.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\locales\uk.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\locales\ur.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\locales\vi.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\locales\zh-CN.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\locales\zh-TW.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\msvcp140.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\msvcp140_1.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\msvcp140_2.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\msvcp140_atomic_wait.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\msvcp140_codecvt_ids.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\resources.pak
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\snapshot_blob.bin
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\ucrtbase.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\v8_context_snapshot.bin
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\vcruntime140.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\vk_swiftshader.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\vulkan-1.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\linux-x64\native\IronPdfInterop.so
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\linux-x64\native\Pdfium.Native.deployment.json
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\osx-arm64\native\IronPdfInterop.dylib
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\osx-arm64\native\Pdfium.Native.deployment.json
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\osx-x64\native\IronPdfInterop.dylib
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\osx-x64\native\Pdfium.Native.deployment.json
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\IronPdfInterop.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\Pdfium.Native.deployment.json
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\IronPdfInterop.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\Pdfium.Native.deployment.json
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\CTRF Version\CTRF\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\CTRF Version\CTRF\obj\Debug\net6.0\staticwebassets\msbuild.CTMS.Microsoft.AspNetCore.StaticWebAssets.props
+D:\CTRF Version\CTRF\obj\Debug\net6.0\staticwebassets\msbuild.build.CTMS.props
+D:\CTRF Version\CTRF\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CTMS.props
+D:\CTRF Version\CTRF\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CTMS.props
+D:\CTRF Version\CTRF\obj\Debug\net6.0\staticwebassets.pack.json
+D:\CTRF Version\CTRF\obj\Debug\net6.0\staticwebassets.build.json
+D:\CTRF Version\CTRF\obj\Debug\net6.0\staticwebassets.development.json
+D:\CTRF Version\CTRF\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\CTRF Version\CTRF\obj\Debug\net6.0\scopedcss\bundle\CTMS.styles.css
+D:\CTRF Version\CTRF\obj\Debug\net6.0\scopedcss\projectbundle\CTMS.bundle.scp.css
+D:\CTRF Version\CTRF\obj\Debug\net6.0\CTMS.csproj.CopyComplete
+D:\CTRF Version\CTRF\obj\Debug\net6.0\CTMS.dll
+D:\CTRF Version\CTRF\obj\Debug\net6.0\refint\CTMS.dll
+D:\CTRF Version\CTRF\obj\Debug\net6.0\CTMS.pdb
+D:\CTRF Version\CTRF\obj\Debug\net6.0\CTMS.genruntimeconfig.cache
+D:\CTRF Version\CTRF\obj\Debug\net6.0\ref\CTMS.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\appsettings.Development.json
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\appsettings.json
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\CTMS.staticwebassets.runtime.json
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\CTMS.exe
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\CTMS.deps.json
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\CTMS.runtimeconfig.json
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\CTMS.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\CTMS.pdb
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\Azure.Core.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\Azure.Identity.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\Humanizer.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\MessagePack.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\Microsoft.Build.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\NuGet.Common.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\System.CodeDom.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\System.Memory.Data.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\System.Text.Json.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\CTMS Version\New folder\CTMS\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\CTMS Version\New folder\CTMS\obj\Debug\net6.0\CTMS.csproj.AssemblyReference.cache
+D:\CTMS Version\New folder\CTMS\obj\Debug\net6.0\CTMS.GeneratedMSBuildEditorConfig.editorconfig
+D:\CTMS Version\New folder\CTMS\obj\Debug\net6.0\CTMS.AssemblyInfoInputs.cache
+D:\CTMS Version\New folder\CTMS\obj\Debug\net6.0\CTMS.AssemblyInfo.cs
+D:\CTMS Version\New folder\CTMS\obj\Debug\net6.0\CTMS.csproj.CoreCompileInputs.cache
+D:\CTMS Version\New folder\CTMS\obj\Debug\net6.0\CTMS.MvcApplicationPartsAssemblyInfo.cache
+D:\CTMS Version\New folder\CTMS\obj\Debug\net6.0\CTMS.RazorAssemblyInfo.cache
+D:\CTMS Version\New folder\CTMS\obj\Debug\net6.0\CTMS.RazorAssemblyInfo.cs
+D:\CTMS Version\New folder\CTMS\obj\Debug\net6.0\staticwebassets\msbuild.CTMS.Microsoft.AspNetCore.StaticWebAssets.props
+D:\CTMS Version\New folder\CTMS\obj\Debug\net6.0\staticwebassets\msbuild.build.CTMS.props
+D:\CTMS Version\New folder\CTMS\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CTMS.props
+D:\CTMS Version\New folder\CTMS\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CTMS.props
+D:\CTMS Version\New folder\CTMS\obj\Debug\net6.0\staticwebassets.pack.json
+D:\CTMS Version\New folder\CTMS\obj\Debug\net6.0\staticwebassets.build.json
+D:\CTMS Version\New folder\CTMS\obj\Debug\net6.0\staticwebassets.development.json
+D:\CTMS Version\New folder\CTMS\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\CTMS Version\New folder\CTMS\obj\Debug\net6.0\scopedcss\bundle\CTMS.styles.css
+D:\CTMS Version\New folder\CTMS\obj\Debug\net6.0\scopedcss\projectbundle\CTMS.bundle.scp.css
+D:\CTMS Version\New folder\CTMS\obj\Debug\net6.0\CTMS.csproj.CopyComplete
+D:\CTMS Version\New folder\CTMS\obj\Debug\net6.0\CTMS.dll
+D:\CTMS Version\New folder\CTMS\obj\Debug\net6.0\refint\CTMS.dll
+D:\CTMS Version\New folder\CTMS\obj\Debug\net6.0\CTMS.pdb
+D:\CTMS Version\New folder\CTMS\obj\Debug\net6.0\CTMS.genruntimeconfig.cache
+D:\CTMS Version\New folder\CTMS\obj\Debug\net6.0\ref\CTMS.dll
+D:\final\CTMS\bin\Debug\net6.0\appsettings.Development.json
+D:\final\CTMS\bin\Debug\net6.0\appsettings.json
+D:\final\CTMS\bin\Debug\net6.0\CTMS.staticwebassets.runtime.json
+D:\final\CTMS\bin\Debug\net6.0\CTMS.exe
+D:\final\CTMS\bin\Debug\net6.0\CTMS.deps.json
+D:\final\CTMS\bin\Debug\net6.0\CTMS.runtimeconfig.json
+D:\final\CTMS\bin\Debug\net6.0\CTMS.dll
+D:\final\CTMS\bin\Debug\net6.0\CTMS.pdb
+D:\final\CTMS\bin\Debug\net6.0\Azure.Core.dll
+D:\final\CTMS\bin\Debug\net6.0\Azure.Identity.dll
+D:\final\CTMS\bin\Debug\net6.0\Humanizer.dll
+D:\final\CTMS\bin\Debug\net6.0\MessagePack.dll
+D:\final\CTMS\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\final\CTMS\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\final\CTMS\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\final\CTMS\bin\Debug\net6.0\Microsoft.Build.dll
+D:\final\CTMS\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\final\CTMS\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\final\CTMS\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\final\CTMS\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\final\CTMS\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\final\CTMS\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\final\CTMS\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\final\CTMS\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\final\CTMS\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\final\CTMS\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\final\CTMS\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\final\CTMS\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\final\CTMS\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\final\CTMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\final\CTMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\final\CTMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\final\CTMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\final\CTMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\final\CTMS\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\final\CTMS\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\final\CTMS\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\final\CTMS\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\final\CTMS\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\final\CTMS\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\final\CTMS\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\final\CTMS\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\final\CTMS\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\final\CTMS\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\final\CTMS\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\final\CTMS\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\final\CTMS\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\final\CTMS\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\final\CTMS\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\final\CTMS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\final\CTMS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\final\CTMS\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\final\CTMS\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\final\CTMS\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\final\CTMS\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\final\CTMS\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\final\CTMS\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\final\CTMS\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\final\CTMS\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\final\CTMS\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\final\CTMS\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\final\CTMS\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\final\CTMS\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\final\CTMS\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\final\CTMS\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\final\CTMS\bin\Debug\net6.0\NuGet.Common.dll
+D:\final\CTMS\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\final\CTMS\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\final\CTMS\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\final\CTMS\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\final\CTMS\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\final\CTMS\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\final\CTMS\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\final\CTMS\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\final\CTMS\bin\Debug\net6.0\System.CodeDom.dll
+D:\final\CTMS\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\final\CTMS\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\final\CTMS\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\final\CTMS\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\final\CTMS\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\final\CTMS\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\final\CTMS\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\final\CTMS\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\final\CTMS\bin\Debug\net6.0\System.Memory.Data.dll
+D:\final\CTMS\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\final\CTMS\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\final\CTMS\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\final\CTMS\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\final\CTMS\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\final\CTMS\bin\Debug\net6.0\System.Text.Json.dll
+D:\final\CTMS\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\final\CTMS\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\final\CTMS\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\final\CTMS\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\final\CTMS\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\final\CTMS\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\final\CTMS\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\final\CTMS\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\final\CTMS\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\final\CTMS\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\final\CTMS\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\final\CTMS\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\final\CTMS\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\final\CTMS\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\final\CTMS\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\final\CTMS\obj\Debug\net6.0\CTMS.csproj.AssemblyReference.cache
+D:\final\CTMS\obj\Debug\net6.0\CTMS.GeneratedMSBuildEditorConfig.editorconfig
+D:\final\CTMS\obj\Debug\net6.0\CTMS.AssemblyInfoInputs.cache
+D:\final\CTMS\obj\Debug\net6.0\CTMS.AssemblyInfo.cs
+D:\final\CTMS\obj\Debug\net6.0\CTMS.csproj.CoreCompileInputs.cache
+D:\final\CTMS\obj\Debug\net6.0\CTMS.MvcApplicationPartsAssemblyInfo.cache
+D:\final\CTMS\obj\Debug\net6.0\CTMS.RazorAssemblyInfo.cache
+D:\final\CTMS\obj\Debug\net6.0\CTMS.RazorAssemblyInfo.cs
+D:\final\CTMS\obj\Debug\net6.0\staticwebassets\msbuild.CTMS.Microsoft.AspNetCore.StaticWebAssets.props
+D:\final\CTMS\obj\Debug\net6.0\staticwebassets\msbuild.build.CTMS.props
+D:\final\CTMS\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CTMS.props
+D:\final\CTMS\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CTMS.props
+D:\final\CTMS\obj\Debug\net6.0\staticwebassets.pack.json
+D:\final\CTMS\obj\Debug\net6.0\staticwebassets.build.json
+D:\final\CTMS\obj\Debug\net6.0\staticwebassets.development.json
+D:\final\CTMS\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\final\CTMS\obj\Debug\net6.0\scopedcss\bundle\CTMS.styles.css
+D:\final\CTMS\obj\Debug\net6.0\scopedcss\projectbundle\CTMS.bundle.scp.css
+D:\final\CTMS\obj\Debug\net6.0\CTMS.csproj.CopyComplete
+D:\final\CTMS\obj\Debug\net6.0\CTMS.dll
+D:\final\CTMS\obj\Debug\net6.0\refint\CTMS.dll
+D:\final\CTMS\obj\Debug\net6.0\CTMS.pdb
+D:\final\CTMS\obj\Debug\net6.0\CTMS.genruntimeconfig.cache
+D:\final\CTMS\obj\Debug\net6.0\ref\CTMS.dll

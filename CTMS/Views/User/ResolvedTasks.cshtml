@@ -1,0 +1,81 @@
+﻿@model IEnumerable<CTMS.Models.RequestForm>
+@{
+    ViewData["Title"] = "Index";
+    if (TempData["msg"] != null)
+    {
+        <script>swal("Berhan Bank", '@TempData["msg"]', "success")</script>
+    }
+    TempData["msg"] = null;
+}
+
+<div class="shadow p-3 mb-5 bg-white rounded">
+    <div class="">
+        <div class=" shadow-none p-3 mb-5 bg-light rounded ">
+            <p>
+                <a onclick="showInPopUp('@Url.Action("AddOrEditRequest","RequestForms",null,Context.Request.Scheme)','Change Registration')" class="btn btn-outline-success btn-sm"><i class="fa-solid fa-plus"></i> Create New</a>
+            </p>
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>
+                            @Html.DisplayNameFor(model => model.ApplicationName)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.ApplicationVersion)
+                        </th>
+
+                        <th>
+                            @Html.DisplayNameFor(model => model.Department)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.ResonForChange)
+                        </th>
+@*                        <th>
+                            @Html.DisplayNameFor(model => model.Description)
+                        </th>*@
+@*                        <th>
+                            @Html.DisplayNameFor(model => model.Status)
+                        </th>*@
+                        <th>
+                            @Html.DisplayNameFor(model => model.CreatedDate)
+                        </th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.ApplicationName)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.ApplicationVersion)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Department)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.ResonForChange)
+                            </td>
+@*                            <td>
+                                @Html.DisplayFor(modelItem => item.Description)
+                            </td>*@
+@*                            <td>
+                                @Html.DisplayFor(modelItem => item.Status)
+                            </td>*@
+
+                            <td>
+                                @Html.DisplayFor(modelItem => item.CreatedDate)
+                            </td>
+                            <td>
+                                <a onclick="showInPopUp('@Url.Action("AddOrEditRequest","RequestForms",new {id = item.Id},Context.Request.Scheme)','Update Request')" class="btn btn-outline-success btn-sm "><i class="fa fa-pencil-alt"></i> </a>
+                                @*|<a onclick="showInPopUp('@Url.Action("AssignRequest","RequestForms",new {id = item.Id},Context.Request.Scheme)','Assign Request')" class="btn btn-info btn-sm "><i class="fa-solid fa-user "></i></a>*@
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

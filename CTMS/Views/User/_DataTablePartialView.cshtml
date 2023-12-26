@@ -1,0 +1,53 @@
+﻿
+@model IEnumerable<CTMS.Models.App_Db_ViewModel>
+
+<table class="table" id="data-table">
+    <thead>
+        <tr>
+            <th> App_Name </th>
+            <th> App_Version </th>
+            @* <th> @Html.DisplayNameFor(model => model.PageName) </th>*@
+            <th> Change Description </th>
+            @* <th> @Html.DisplayNameFor(model => model.TableName) </th>*@
+            @* <th> @Html.DisplayNameFor(model => model. ) </th>*@
+            @* <th> @Html.DisplayNameFor(model => model.DbDescription) </th>*@
+            <th> @Html.DisplayNameFor(model => model.ModifiedBy) </th>
+            <th> Modified Date </th>
+            <th> Signoff </th>
+            <th>IsSign</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td> @Html.DisplayFor(modelItem => item.ApplicationName) </td>
+                <td> @Html.DisplayFor(modelItem => item.ApplicationVersion) </td>
+                @* <td> @Html.DisplayFor(modelItem => item.PageName) </td>*@
+                <td>
+                    @* @Html.DisplayFor(modelItem => item.AppDescription), @Html.DisplayFor(modelItem => item.DbDescription)*@
+                    @Html.DisplayFor(modelItem => item.Description)
+                </td>
+                @* <td> @Html.DisplayFor(modelItem => item.TableName) </td>*@
+                @* <td> @Html.DisplayFor(modelItem => item.FieldName) </td>*@
+                @* <td> @Html.DisplayFor(modelItem => item.DbDescription) </td>*@
+                <td> @Html.DisplayFor(modelItem => item.ModifiedBy) </td>
+                <td> @Html.DisplayFor(modelItem => item.ModifiedDate) </td>
+                <td>
+                    <a class="btn btn-outline-primary" href="GeneratReportById/@item.RequestId">Sign Off </a>
+                </td>
+
+                @if (item.SignApprove == 1)
+                {
+                    <td> <label>yes</label><input type="checkbox" value="true" checked="checked" disabled /></td>
+                }
+                else
+                {
+                    <td>
+                        <label>No</label><a class="btn btn-outline-primary" href="SignIndicator/@item.RequestId">Assure</a>
+                    </td>
+                }
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,46 @@
+﻿@model IEnumerable<CTMS.Models.RequestForm>
+
+<p>
+    <a onclick="showInPopUp('@Url.Action("AddOrEditRequest","RequestForms",null,Context.Request.Scheme)','New Request')" class="btn btn-outline-success"><i class="fa-solid fa-plus"></i> Create New</a>
+</p>
+<dev class="col-md-12">
+    <table class="table" id="table">
+        <thead>
+            <tr>
+            @*<th>Role_No</th>*@
+            <th>Application Name</th>
+            <th>Requested By</th>
+            <th>Department</th>
+            <th>Case</th>
+            <th>Description</th>
+            <th>Remark</th>
+           @* <th>Created By</th>*@
+            <th>Created Date</th>
+            <th>Status</th>
+            <th colspan="4">Action</th>
+        </tr>
+    </thead>
+    <tbody id="tblBody">
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.ApplicationName</td>
+                <td>@item.RequestedBy</td>
+                <td>@item.Department</td>
+                <td>@item.ResonForChange</td>
+                <td>@item.Description</td>
+                <td>@item.Remark</td>
+                @*<td>@item.CreatedBy</td>*@
+                <td>@item.CreatedDate</td>
+                <td>@item.Status</td>
+                <td>
+                    <a onclick="showInPopUp('@Url.Action("AddOrEditRequest","RequestForms",new {id = item.Id},Context.Request.Scheme)','Update Request')" class="btn btn-primary btn-sm"><i class="fa fa-pencil-alt"></i> </a>
+                    <a onclick="showInPopUp('@Url.Action("AssignRequest","RequestForms",new {id = item.Id},Context.Request.Scheme)','Assign Request')" class="btn btn-info btn-sm d-inline"> <i class="fa fa-pencil-alt"></i></a>
+
+                </td>
+            </tr>
+        }
+
+    </tbody>
+</table>
+</dev>
